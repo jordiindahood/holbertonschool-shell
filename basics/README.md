@@ -13,4 +13,6 @@
 	with user nad group ID displayed numerically
 	hidden files
 
-										
+6-firstdirectory : a file that creates a directory named "my_first_directory in /tmp/ directory
+
+
