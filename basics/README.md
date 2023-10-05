@@ -15,4 +15,6 @@
 
 6-firstdirectory : a file that creates a directory named "my_first_directory in /tmp/ directory
 
+7-movethatfile : a file that moves the file "betty" from /tmp to /tmp/my_first_directory
+
 
