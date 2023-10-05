@@ -8,4 +8,9 @@
 
 4-listmorefiles : a file that displays cueernt directory contents, including hidden files
 
+5-listfilesdigitonly : a file that displays the current directory contents in : 
+	long format
+	with user nad group ID displayed numerically
+	hidden files
 
+										
