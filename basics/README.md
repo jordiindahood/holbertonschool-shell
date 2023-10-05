@@ -27,4 +27,6 @@
 
 12-file_type : a file that prints the type of the file named "iamafile" that exists in /tmp
 
+13-symbolic_link : __ls__ a symbolic link to /bin/ls
+
 
