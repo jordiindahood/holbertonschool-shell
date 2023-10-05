@@ -6,3 +6,6 @@
 
 3-listfiles : a file that displays current directory contenst in a long format
 
+4-listmorefiles : a file that displays cueernt directory contents, including hidden files
+
+
