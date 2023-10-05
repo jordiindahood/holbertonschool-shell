@@ -23,3 +23,7 @@
 
 10-back : a file that changes the working directory to previous one
 
+11-lists : a file that lists all files in the current directory and the parent of the working directory and the /boot directory in long format
+
+
+
