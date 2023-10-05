@@ -33,4 +33,6 @@
 
 You can consider that all HTML files have the extension
 
+15-lets_move : a file that moves all files beginning with an uppercase to  /tmp/u
+
 
