@@ -1,2 +1,2 @@
 #!/bin/bash
-owner betty hello
+chown betty hello
