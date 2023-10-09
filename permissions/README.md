@@ -9,3 +9,5 @@ script 3 : a script that changes the owner of the file "hello" to the user "bett
 script 4 : a script that creates an empty file named "hello"
 
 script 5 : a script that adds execute permission to the owner of the file hello
+
+script 6 : a script that adds execute permission to tha owner and the group owner andread permission to other users, to the file hello
