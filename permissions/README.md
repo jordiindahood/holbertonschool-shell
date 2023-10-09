@@ -18,3 +18,6 @@ script 8 : a script that sets the permission to the file hello ( no permission t
 
 script 9 : a script that sets the mode of the file hello to (-rwxr-x-wx)
 
+script 10 : a script that sets the mode of the file 'hello' the same as 'olleh's mode
+
+
