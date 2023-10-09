@@ -13,3 +13,5 @@ script 5 : a script that adds execute permission to the owner of the file hello
 script 6 : a script that adds execute permission to tha owner and the group owner andread permission to other users, to the file hello
 
 script 7 : a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+script 8 : a script that sets the permission to the file hello ( no permission to owner, no permission to group , all permissions to others)
