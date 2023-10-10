@@ -10,4 +10,6 @@ script 4 : display the last 10 lines of /etc/passwd
 
 script 5 : display the first 10 lines of /etc/passwd
 
+script 6 : display the 3rd line n file named iacta
+
 
