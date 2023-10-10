@@ -6,4 +6,6 @@ script 2 : a script that Display the content of /etc/passwd
 
 script 3 : a script that Display the content of /etc/passwd and /etc/hosts
 
+script 4 : display the last 10 lines of /etc/passwd
+
 
