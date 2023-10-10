@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u 3 iacta
+head -n 3 iacta | tail -1
