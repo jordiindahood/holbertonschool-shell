@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -i BEST = "School"
+declare BEST "School"
